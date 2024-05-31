@@ -4,9 +4,9 @@ import java.time.temporal.ChronoUnit;
 
 public class ex_14 {
 //Рассчитаем количество дней между двумя датами, используя встроенные возможности Java.
-public static void main(String[] args) {
+public static void main() {
             // С даты
-    LocalDate dateFrom = LocalDate.of(2024, Month.MAY, 31);
+    LocalDate dateFrom = LocalDate.of(2024, Month.MAY, 30);
 // По дату
     LocalDate dateTo = LocalDate.of(2024, Month.JULY, 29);
 // Количество дней между этими датами
