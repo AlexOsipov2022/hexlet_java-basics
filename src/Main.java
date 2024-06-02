@@ -7,6 +7,7 @@ public class Main {
           //ex_14.countday();
           //ex_20.getHiddenCard("1234567812345678", 3);
          //ex_22.isLeapYear(2016);
+         ex_23.convertString("");
 
                  }
 }
