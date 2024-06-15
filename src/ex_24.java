@@ -12,6 +12,18 @@ public class ex_24 {
                 break;
             default: System.out.println("just a number");
             break*/;
+
+        /*public static String getNumberExplanation(int number) {
+            switch (number) {
+                case 666:
+                    return "devil number";
+                case 7:
+                    return "prime number";
+                case 42:
+                    return "answer for everything";
+                default:
+                    return "just a number";*/
+
         if (num == 666)
         {            System.out.println("devil number"); }
        else if  (num == 42)
