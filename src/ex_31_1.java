@@ -1,6 +1,4 @@
 public class ex_31_1 {
-    public class DnaToRna {
-
         public static String dnaToRna(String dna) {
             if (dna.isEmpty()) {
                 return "";
@@ -30,4 +28,3 @@ public class ex_31_1 {
             return rna.toString();
         }
     }
-}
