@@ -11,6 +11,7 @@ public class Main {
            // ex_24.getNumberExplanation(42);
            // ex_25.printNumbers(0);
            // ex_29.greaterThan("QwQ", "weerT") ;
-           ex_30.fizzBuzz(11, 20);}
+           //ex_30.fizzBuzz(11, 20);
+           ex_31.dnaToRna("CCGTA");}
 }
 
